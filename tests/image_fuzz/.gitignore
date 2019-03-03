@@ -2,3 +2,6 @@ build
 corpus
 fuzz-*.log
 crash-*
+timeout-*
+slow-unit-*
+oom-*
