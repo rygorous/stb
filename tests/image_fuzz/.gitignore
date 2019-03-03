@@ -1,0 +1,4 @@
+build
+corpus
+fuzz-*.log
+crash-*
